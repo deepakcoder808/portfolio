@@ -1,0 +1,45 @@
+body{
+    font-family:Arial, sans-serif ;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    color: #0e0e0e;
+}
+header{
+    background: #c78f8f;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+nava a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+section{
+    padding: 20px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 8px;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    background: #dfa4a4;
+    color: white;
+}
+.project{
+ background-color: #f0f0f0;
+ padding: 10px;
+ margin-bottom: 15px;
+ border-left: 4px solid #007BFF;
+ border-radius: 6px;
+}
+.projecth3 {
+margin: 0 0 5px;
+}
+.projecta{
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
